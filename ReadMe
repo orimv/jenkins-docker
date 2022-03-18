@@ -1,5 +1,7 @@
 cd Jenkins-docker
 
+-- ajout commentaire
+
 -- creation du repository distant de test
 git init
 git add .
